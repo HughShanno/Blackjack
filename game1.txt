@@ -1,0 +1,3 @@
+Chris,1000
+Hugh,1300
+Harald,700
